@@ -31,6 +31,5 @@ Platform [IDE]: Jupyter Notebooks
 3. Eclipse IDE
 4. Jupyter Notebooks
 
-<a href="https://leetcode.com/mehvashkhann/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="C:\Users\Maseera Khan\Pictures\Screenshots\Screenshot (130)" width="500"/>
-</a
+## Leetcode
+@mehvashkhann
