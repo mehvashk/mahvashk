@@ -31,5 +31,3 @@ Platform [IDE]: Jupyter Notebooks
 3. Eclipse IDE
 4. Jupyter Notebooks
 
-## Leetcode
-@mehvashkhann
